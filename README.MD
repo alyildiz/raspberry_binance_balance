@@ -28,6 +28,10 @@ python3 -m pip install -r requirements.txt
 ./script.sh
 ```
 
+# Image
+
+![alt text](https://github.com/alyildiz/raspberry_binance_balance/blob/master/img.jpg?raw=true)
+
 
 
 

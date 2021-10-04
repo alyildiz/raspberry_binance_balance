@@ -3,6 +3,8 @@ Live Binance Futures Balance
 
 Script en Python qui permet d'afficher la valeur de son compte Binance Futures sur un écran LCD monté sur un RaspberryPi 4
 
+Le script affiche soit simplement la valeur du compte Binance Futures ou bien aussi les positions en cours
+
 ==============================
 
 Pour lancer le script : 

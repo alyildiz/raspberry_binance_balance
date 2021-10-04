@@ -6,7 +6,6 @@ Script en Python qui permet d'afficher la valeur de son compte Binance Futures s
 Le script affiche soit simplement la valeur du compte Binance Futures ou bien aussi les positions en cours
 
 ==============================
-
 Pour lancer le script : 
 
 - Créer /.env qui contient :

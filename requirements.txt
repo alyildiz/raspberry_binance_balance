@@ -1,0 +1,3 @@
+python-binance
+RPLCD
+RPi.GPIO
